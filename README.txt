@@ -1,0 +1,1 @@
+Power BI Desktop build specification is in Documentation/Build_Specification.md. The PBIX itself must be assembled in Power BI Desktop using the supplied CSV, model and DAX documentation.
